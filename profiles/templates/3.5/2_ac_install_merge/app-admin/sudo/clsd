@@ -1,0 +1,3 @@
+# Calculate comment=# chmod=0440
+
+%users ALL=NOPASSWD:/usr/bin/tinymount
