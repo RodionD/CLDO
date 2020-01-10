@@ -1,6 +1,6 @@
 # Calculate format=world name=world ini(overlay-CLsD-overlay.world)<1
 
-#-ini(overlay-RodionD.world,1)-#
+#-ini(overlay-CLsD-overlay.world,1)-#
 
 #?in(os_linux_pkglist, CLsD)!=#
 
