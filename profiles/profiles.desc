@@ -10,7 +10,4 @@
 # AMD64 Profiles
 amd64		CLsD/amd64					stable
 
-# x86 Profiles
-x86		CLsD/x86					stable
-
 # vim: set ts=8

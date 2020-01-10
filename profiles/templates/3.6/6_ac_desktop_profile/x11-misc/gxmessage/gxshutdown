@@ -1,4 +1,4 @@
-#Calculate chmod=0755 path=~/bin
+#Calculate chmod=0755 path=~/bin ac_desktop_profile==on
 
 #!/bin/bash
 

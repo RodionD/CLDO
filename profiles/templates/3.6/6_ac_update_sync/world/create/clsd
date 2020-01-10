@@ -1,4 +1,4 @@
-# Calculate name=world format=world in(os_linux_pkglist,calculate)!=
+# Calculate name=world format=world ac_update_sync==on in(os_linux_pkglist,calculate)!=
 
 #?in(os_linux_pkglist, CLsD)!=#
 

@@ -1,4 +1,4 @@
-#Calculate format=raw path=~/
+#Calculate format=raw path=~/ ac_desktop_profile==on
 
 URxvt*foreground: #D0D0D0
 URxvt*background: #000000

@@ -1,4 +1,5 @@
-#Calculate format=raw path=~/ os_locale_language!=en
+#Calculate format=raw path=~/ os_locale_language!=en ac_desktop_profile==on
+
 
 XXkb.controls.two_state: no
 XXkb.controls.add_when_start: yes

@@ -1,4 +1,4 @@
-# Calculate comment=# path=/etc/portage/sets/clsd
+# Calculate comment=# path=/etc/portage/sets/clsd ac_update_sync==on
 
 app-editors/leafpad
 app-misc/mc
