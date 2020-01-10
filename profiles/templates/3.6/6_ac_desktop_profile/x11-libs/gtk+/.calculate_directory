@@ -1,1 +1,1 @@
-# Calculate append=skip belong(gtk+)!=&&ini(update.gtk+)!=off&&ini(ver.gtk+)==&&pkg(x11-libs/gtk+)>=2.24
+# Calculate append=skip belong(gtk+)!=&&ini(update.gtk+)!=off&&ini(ver.gtk+)==&&pkg(x11-libs/gtk+)>=2.24 ac_desktop_profile==on
