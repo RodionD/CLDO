@@ -1,0 +1,6 @@
+# Calculate exists(/etc/portage/package.keywords/clsd)==
+
+x11-misc/obdevicemenu ~#-os_assemble_gentoo_arch-#
+#sys-apps/clsd-templates ~#-os_assemble_gentoo_arch-#
+=x11-misc/obshutdown-9999 ~#-os_assemble_gentoo_arch-#
+x11-misc/tinymount ~#-os_assemble_gentoo_arch-#
