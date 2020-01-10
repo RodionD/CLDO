@@ -1,4 +1,4 @@
-#Calculate format=raw path=~/ ac_desktop_profile==on
+#Calculate format=raw path=~/
 #
 # Openbox shutdown dialog
 # This is example obshutdown rc file
