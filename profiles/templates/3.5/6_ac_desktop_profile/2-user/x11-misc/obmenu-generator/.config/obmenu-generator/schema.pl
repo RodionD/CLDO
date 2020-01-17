@@ -1,5 +1,3 @@
-# Calculate
-
 #!/usr/bin/perl
 
 # obmenu-generator - schema file
@@ -114,7 +112,8 @@ our $SCHEMA = [
     # {item => ['oblogout', 'Exit', 'exit']},
 ]
 #os_locale_language#
-#?os_locale_language=ru#
+#?os_locale_language==ru#
+
 our $SCHEMA = [
 
     #          COMMAND                 LABEL                ICON
