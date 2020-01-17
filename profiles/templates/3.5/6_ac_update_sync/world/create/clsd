@@ -2,23 +2,12 @@
 
 #?in(os_linux_pkglist, CLsD)!=#
 
-app-editors/leafpad
 app-misc/mc
-app-office/libreoffice
-media-gfx/lightdm-themes-calculate
 media-gfx/feh
-media-sound/volumeicon
-media-sound/clementine
-media-video/smplayer
-media-sound/pavucontrol
-net-misc/remmina
-net-irc/hexchat
-sci-calculators/galculator
 x11-wm/openbox
 x11-misc/obmenu-generator
 x11-misc/obconf
 x11-misc/tint2
-x11-misc/parcellite
 x11-misc/gmrun
 x11-misc/screengrab
 x11-misc/spacefm
@@ -26,8 +15,6 @@ x11-misc/tinymount
 x11-misc/xxkb
 x11-terms/rxvt-unicode
 x11-misc/gxmessage
-x11-themes/calculate-icon-theme
-www-client/firefox
 
 x11-misc/obshutdown
 x11-misc/obapps

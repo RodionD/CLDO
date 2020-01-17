@@ -21,4 +21,5 @@ sys-apps/mlocate
 sys-block/gparted
 #для корректной поддержки мультимедиа клавиатур
 x11-misc/wmctrl
+x11-misc/parcellite
 #in#

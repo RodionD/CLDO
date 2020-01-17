@@ -1,0 +1,9 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CsLD)!=#
+media-sound/clementine
+media-video/smplayer
+media-sound/qastools
+media-sound/volumeicon
+media-sound/pavucontrol
+#in#

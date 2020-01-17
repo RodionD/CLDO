@@ -1,0 +1,12 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CLsD)!=#
+app-text/wgetpaste
+net-misc/whois
+net-analyzer/nmap
+net-analyzer/traceroute
+www-client/firefox
+www-plugins/adobe-flash
+www-plugins/firefox-ublock
+net-misc/remmina
+#in#

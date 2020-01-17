@@ -1,0 +1,9 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CsLD)!=#
+app-office/libreoffice
+app-text/fbreader
+app-text/qpdfview
+sci-calculators/galculator
+app-editors/leafpad
+#in#
