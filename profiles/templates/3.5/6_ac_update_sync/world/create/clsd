@@ -32,5 +32,6 @@ www-client/firefox
 
 x11-misc/obshutdown
 x11-misc/obapps
+x11-misc/obdevicemenu
 
 #in#
