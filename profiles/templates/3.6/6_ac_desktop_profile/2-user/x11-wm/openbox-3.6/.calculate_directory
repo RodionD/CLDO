@@ -1,1 +1,1 @@
-# Calculate mergepkg()>=3.6&&ini(update.openbox)!=off&&ini(ver.openbox)== append=skip
+# Calculate mergepkg()>=3.6&&ini(update.openbox)!=off&&ini(ver.openbox)==&&exists(~/.config/openbox/rc.xml)== append=skip
