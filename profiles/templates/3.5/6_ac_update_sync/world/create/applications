@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CsLD)!=#
+#?in(os_linux_pkglist, CLsD)!=#
 app-office/libreoffice
 app-text/fbreader
 app-text/qpdfview
