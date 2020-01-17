@@ -1,2 +1,3 @@
-calculate:default/x86/20/desktop
+#calculate:default/x86/20/desktop
+distros:CLS/x86/20
 ../..
