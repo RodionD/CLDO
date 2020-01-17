@@ -8,6 +8,6 @@ sys-apps/less
 sys-kernel/dracut
 #in#
 
-#?in(os_linux_pkglist, CLsD)!=#
+#?in(os_linux_pkglist, CLDO)!=#
 app-editors/nano
 #in#

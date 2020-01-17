@@ -1,6 +1,6 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, CLsD)!=#
+#?in(os_linux_pkglist, CLDO)!=#
 net-dialup/pptpclient
 net-dialup/rp-pppoe
 net-dialup/xl2tpd

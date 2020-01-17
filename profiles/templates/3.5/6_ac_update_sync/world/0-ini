@@ -1,4 +1,4 @@
-# Calculate path=/etc/calculate name=ini.env format=samba cl_update_world==rebuild||cl_update_world==merge||ini(overlay-CLsD-overlay.world)==
+# Calculate path=/etc/calculate name=ini.env format=samba cl_update_world==rebuild||cl_update_world==merge||ini(overlay-CLDO.world)==
 
-[overlay-CLsD-overlay]
+[overlay-CLDO]
 world = 20200109
