@@ -1,6 +1,0 @@
-# Calculate name=world format=world
-
-#?in(os_linux_pkglist, CLDO)!=#
-media-gfx/imagemagick
-media-gfx/nomacs
-#in#

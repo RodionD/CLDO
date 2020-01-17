@@ -1,9 +1,0 @@
-# Calculate name=world format=world
-
-#?in(os_linux_pkglist, CLDO)!=#
-app-office/libreoffice
-app-text/fbreader
-app-text/evince
-sci-calculators/galculator
-app-editors/leafpad
-#in#
