@@ -1,0 +1,24 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CLsD)!=#
+app-arch/lbzip2
+app-arch/pigz
+app-misc/tmux
+net-misc/dhcp
+sys-auth/pam_update
+sys-fs/btrfs-progs
+sys-fs/cryptsetup
+sys-fs/reiserfsprogs
+sys-fs/xfsprogs
+app-admin/logrotate
+sys-apps/ethtool
+sys-apps/usbutils
+virtual/cron
+virtual/logger
+app-pda/usbmuxd
+dev-python/gst-python
+sys-apps/mlocate
+sys-block/gparted
+#для корректной поддержки мультимедиа клавиатур
+x11-misc/wmctrl
+#in#

@@ -15,7 +15,6 @@ net-misc/remmina
 net-irc/hexchat
 sci-calculators/galculator
 x11-wm/openbox
-x11-misc/lightdm
 x11-misc/obmenu-generator
 x11-misc/obconf
 x11-misc/tint2

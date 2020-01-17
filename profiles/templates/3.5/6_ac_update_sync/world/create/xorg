@@ -1,0 +1,7 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CLsD)!=#
+app-misc/xorg-meta
+x11-misc/lightdm
+x11-misc/light-locker
+#in#

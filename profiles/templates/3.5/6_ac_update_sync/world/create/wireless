@@ -1,0 +1,14 @@
+# Calculate name=world format=world
+
+#?in(os_linux_pkglist, CLsD)!=#
+net-wireless/broadcom-sta
+net-wireless/rtl8723de
+net-wireless/rtl8821ce
+net-wireless/rtl8821cu
+net-wireless/wireless-tools
+net-wireless/wpa_supplicant
+sys-firmware/b43-firmware
+sys-firmware/ipw2100-firmware
+sys-firmware/ipw2200-firmware
+net-wireless/blueman
+#in#
