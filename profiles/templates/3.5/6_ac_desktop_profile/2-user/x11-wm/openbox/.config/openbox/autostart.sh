@@ -1,4 +1,3 @@
-#Calculate
 #!/bin/bash
 
 feh --bg-scale "/usr/share/wallpapers/Calculate_Linux/contents/images/#-os_x11_standart-#.jpg" &
