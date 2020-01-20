@@ -62,7 +62,7 @@ our $SCHEMA = [
     #{end_cat   => undef},
 
     #            COMMAND     LABEL        ICON
-    #{pipe => ['obbrowser', 'Disk', 'drive-harddisk']},
+    {pipe => ['/usr/local/bin/obdevicemenu', 'Device menu', 'drive-harddisk']},
 
     ## Generic advanced settings
     #{sep       => undef},
@@ -149,7 +149,7 @@ our $SCHEMA = [
     #{end_cat   => undef},
 
     #            COMMAND     LABEL        ICON
-    #{pipe => ['obbrowser', 'Disk', 'drive-harddisk']},
+    {pipe => ['/usr/local/bin/obdevicemenu', 'Меню устройств', 'drive-harddisk']},
 
     ## Generic advanced settings
     #{sep       => undef},
@@ -197,4 +197,5 @@ our $SCHEMA = [
 
     # This uses the 'oblogout' menu
     # {item => ['oblogout', 'Exit', 'exit']},
+]
 #os_locale_language#

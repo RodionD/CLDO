@@ -8,5 +8,5 @@ tint2 -c ~/.config/tint2/tint2rc.launcher &
 xxkb &
 #os_locale_language#
 parcellite &
-volumeicon &
+#volumeicon &
 sudo tinymount &
