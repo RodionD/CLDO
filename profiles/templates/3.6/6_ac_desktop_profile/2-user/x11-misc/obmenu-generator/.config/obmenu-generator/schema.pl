@@ -1,3 +1,4 @@
+# Calculate
 #!/usr/bin/perl
 
 # obmenu-generator - schema file
@@ -30,9 +31,9 @@ my $editor = $CONFIG->{editor};
 our $SCHEMA = [
 
     #          COMMAND                 LABEL                ICON
-    {item => ['xdg-open .',        'File Manager',      'file-manager']},
+    {item => ['scapefm',        'File Manager',      'file-manager']},
     {item => [$CONFIG->{terminal},             'Terminal',          'terminal']},
-    {item => [$CONFIG->{web_browser},'Web Browser',       'web-browser']},
+    {item => ['firefox', 'Web Browser',       'web-browser']},
     {item => ['gmrun',             'Run command',       'system-run']},
 
     {sep => 'Categories'},
@@ -119,7 +120,7 @@ our $SCHEMA = [
     #          COMMAND                 LABEL                ICON
     {item => ['xdg-open .',        'Файловый менеджер',      'file-manager']},
     {item => [$CONFIG->{terminal},             'Терминал',          'terminal']},
-    {item => [$CONFIG->{web_browser},'Web браузер',       'web-browser']},
+    {item => ['firefox', 'Web браузер',       'web-browser']},
     {item => ['gmrun',             'Выполнить комманду',       'system-run']},
 
     {sep => 'Categories'},

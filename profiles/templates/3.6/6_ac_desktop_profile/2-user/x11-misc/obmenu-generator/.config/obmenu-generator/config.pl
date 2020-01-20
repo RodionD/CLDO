@@ -1,3 +1,4 @@
+# Calculate
 #!/usr/bin/perl
 
 # obmenu-generator - configuration file
