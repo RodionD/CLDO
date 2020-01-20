@@ -24,6 +24,7 @@ COMMON_DEPEND="
     dev-qt/qtcore:5
     dev-qt/qtdbus:5
     dev-qt/qtgui:5
+    dev-qt/linguist-tools
     libnotify? ( x11-libs/libnotify )"
 DEPEND="${COMMON_DEPEND}
     virtual/pkgconfig"
