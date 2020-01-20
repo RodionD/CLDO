@@ -298,7 +298,7 @@
     </keybind>
     <keybind key="0x6B">
       <action name="Execute">
-        <command>scrot ~/Pictures/`date +%x-%X-%N.png`</command>
+        <command>screengrub</command>
       </action>
     </keybind>
     <keybind key="0x7C">
