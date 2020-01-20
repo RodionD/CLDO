@@ -16,7 +16,7 @@ x11-misc/xxkb
 x11-terms/rxvt-unicode
 x11-misc/gxmessage
 
-x11-misc/obshutdown
+#x11-misc/obshutdown
 x11-misc/obdevicemenu
 
 #in#
