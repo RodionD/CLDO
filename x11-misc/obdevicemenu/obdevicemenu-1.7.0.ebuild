@@ -4,8 +4,8 @@
 EAPI="2"
 
 DESCRIPTION="OpenBox device menu"
-HOMEPAGE="http://sourceforge.net/projects/obdevicemenu/"
-SRC_URI="http://sourceforge.net/projects/obdevicemenu/files/${PF}.tar.gz"
+HOMEPAGE="https://github.com/RodionD/obdevicemenu"
+SRC_URI="https://github.com/RodionD/obdevicemenu/archive/1.7.0.zip"
 
 LICENSE="GPL-3"
 SLOT="0"
