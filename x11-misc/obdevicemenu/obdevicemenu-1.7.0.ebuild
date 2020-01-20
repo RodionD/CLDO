@@ -16,7 +16,7 @@ DEPEND="
 	app-shells/bash
 	sys-apps/dbus
 	x11-wm/openbox
-	sys-fs/udisks
+	sys-fs/udisks:0
 	notifications? ( x11-misc/notification-daemon )
 "
 
